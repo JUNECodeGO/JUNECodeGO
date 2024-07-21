@@ -1,7 +1,5 @@
 ### Hi, I'm June 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=JUNECodeGo&show_icons=true&theme=radical&count_private=true&show_icons=true&include_all_commits=true" />
-
 ### Skills
 <div>
   <img src="https://img.shields.io/badge/html-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white" alt="HTML" />
@@ -17,8 +15,8 @@
 
 ## This is me
 
-- 擅长 React 技术栈，能进行微信小程序，H5，NodeJS开发。
+- React 小程序 H5 NodeJS开发。
 
-- 喜欢有意思、有挑战的工作，业余会一点平面设计，视频剪辑动画特效。
+- 喜欢有意思、有挑战的工作，业余会一点平面设计，视频剪辑 3D动画。
 
 - 注重团队协作和团队沟通，主观能动心强，多学多想，keep learning～
