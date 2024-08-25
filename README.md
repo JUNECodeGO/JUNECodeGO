@@ -15,7 +15,7 @@
 
 ## This is me
 
-- React,React Native, 小程序 H5 NodeJS开发。
+- React, React Native, 小程序, H5, NodeJS开发。
 
 - 喜欢有意思、有挑战的工作，业余会一点平面设计，视频剪辑 3D动画。
 
